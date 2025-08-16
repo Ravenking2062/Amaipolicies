@@ -1,4 +1,6 @@
 AMAI TECHNOLOGIES LTD    PRIVACY POLICY
+
+
 Last Updated: August 08, 2025
 Effective Date: August 8, 2023
 ________________________________________
