@@ -1,6 +1,9 @@
 AMAI TECHNOLOGIES LTD. – PRIVACY POLICY
+
 Last Updated: August 20, 2025
 Effective Date: August 8, 2023
+
+
 This Privacy Policy ("Policy") describes the privacy practices of Amai Technologies Ltd. 
 ("Amai," "we," "us," or "our") concerning the collection, use, disclosure, and 
 protection of Personal Information obtained through the Amai mobile application, 
