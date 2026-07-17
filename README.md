@@ -1,13 +1,13 @@
 PRIVACY POLICY OF AMAI TECHNOLOGIES LTD
 
-Last Updated: 21 August 2025
+Last Updated: 17 July 2025
 Effective Date: 8 August 2023
 
 This Privacy Policy ("Policy") describes the privacy practices of Amai Technologies 
-Ltd ("Amai," "we," "us," "our") for the "Amai" mobile application (the "App"), our 
+Ltd ("Amaiverse," "we," "us," "our") for the "Amaiverse" mobile application (the "App"), our 
 associated websites, and all related services (collectively, the "Services").
 This Policy is a legally binding agreement between you ("User," "you," "your") and 
-Amai. By accessing or using our Services, you acknowledge that you have read, 
+Amaiverse. By accessing or using our Services, you acknowledge that you have read, 
 understood, and agree to be bound by the terms of this Policy. If you do not agree 
 with our practices, you must not use our Services.
 This Policy is hosted on our verified domain and is permanently linked from the 
@@ -98,7 +98,7 @@ with this Policy. These include:
 o Cloud Storage & Hosting: Google Cloud Platform, Firebase Hosting.
 o Analytics: Google Analytics for Firebase (data is anonymized where 
 possible).
-o Payment Processing: PayPal, Stripe, and other certified payment 
+o Payment Processing: PayPal, Stripe, mobile money, and other certified payment 
 gateways.
 o AI Service Providers: OpenAI and Google Cloud AI, strictly under 
 binding agreements that prohibit the use of your data for model 
@@ -172,7 +172,7 @@ consent at any time.
 "sale" or "sharing" of your Personal Data as defined by the CCPA/CPRA.
 To exercise any of these rights, please submit a verifiable request to us by 
 emailing privacy@allamai.org. or by visiting the "Privacy Settings" section within the 
-Amai App. We will respond to all legitimate requests within 30 days, in compliance 
+Amaiverse App. We will respond to all legitimate requests within 30 days, in compliance 
 with applicable law.
 You have the right to lodge a complaint with a supervisory authority in your 
 jurisdiction. For South African residents, this is the Information Regulator 
